@@ -5,3 +5,5 @@ I found this article because I'm interested in **natural language processing** a
 This is interesting because we typically attempt to use emojis with different emotions. A sentiment analysis bot that is able to detect these features may allow us an insight into the use of emojis in society as well as how their meaning changes over time. For example, the :skull: emoji is used by many to express extreme laughter in a subject, when seeing skull in normal text, we may not be able to get that inference.
 
 I thought this was interesting and funny because I use emojis a lot too. It would be cool if we could start including emojis to have more real conversations with AI and not mess up our data because in the real world we will have conversations that have emojis in them. - 163dgm
+
+Omri Sokol edit: This article was very interesting as I use emojis everyday.
